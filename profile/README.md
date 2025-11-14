@@ -7,7 +7,7 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7826/badge)](https://www.bestpractices.dev/projects/7826)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/hyperledger/firefly/badge)](https://scorecard.dev/viewer/?uri=github.com/hyperledger/firefly)
 
-![Hyperledger FireFly](./images/hyperledger_firefly_logo.png)
+![Hyperledger FireFly](https://raw.githubusercontent.com/hyperledger/firefly/refs/heads/main/images/hyperledger_firefly_logo.png)
 
 Hyperledger FireFly is the first open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications.
 
@@ -31,6 +31,7 @@ FireFly CLI                   |  FireFly Explorer UI                | FireFly Sa
 ## Engage with the community
 
 - [Join us on Discord](https://discord.gg/hyperledger)
+- [Join our community calls](https://zoom-lfx.platform.linuxfoundation.org/meetings/firefly?view=list)
 
 ## Technical architecture
 
